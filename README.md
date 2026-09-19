@@ -1,5 +1,7 @@
 # Formulación estadística y ecológica para la estimación censal corregida por detectabilidad de *Oreotrochilus cyanolaemus*
 
+https://jocoacoustics.github.io/oreotrochilus_cyanolaemus_censo_2026/
+
 ## 1. Marco del problema
 
 El objetivo del análisis no es estimar directamente la población regional total de *Oreotrochilus cyanolaemus*, ni extrapolar densidad hacia todo el hábitat potencial. El objetivo es más específico y defendible: estimar la abundancia censal corregida por detectabilidad dentro del marco cubierto por el censo 2026.
@@ -177,11 +179,8 @@ Por lo tanto:
 
 $$
 E\left(\frac{n_{obs}}{p_{det}}\right)
-=
-\frac{E(n_{obs})}{p_{det}}
-=
-\frac{N_Cp_{det}}{p_{det}}
-=
+=\frac{E(n_{obs})}{p_{det}}=
+\frac{N_Cp_{det}}{p_{det}}=
 N_C.
 $$
 
